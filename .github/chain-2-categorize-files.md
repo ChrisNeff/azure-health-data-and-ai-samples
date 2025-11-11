@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Step 2: Categorize the Files
 
 Organize every file in the repository by purpose and type.

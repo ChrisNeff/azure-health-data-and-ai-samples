@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Step 6: Build Instructions (Synthesis)
 
 Synthesize all previous chain steps into a comprehensive GitHub Copilot instructions file.

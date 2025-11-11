@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Step 5: Generate Style Guides
 
 Capture unique conventions that define this codebase for each file type.

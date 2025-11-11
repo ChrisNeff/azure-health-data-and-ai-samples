@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Step 4: Domain Deep Dive
 
 Document specific domains using real code examples from the project.

@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Step 3: Identify the Architecture
 
 Map how major pieces of the application fit together.

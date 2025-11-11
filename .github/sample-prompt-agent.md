@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Check Function App Deployment Status
 
 Determine if Azure Function Apps from this repository have been deployed to the user's Azure tenant.

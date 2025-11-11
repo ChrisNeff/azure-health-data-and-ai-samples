@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Step 1: Determine the Tech Stack
 
 Analyze this repository and identify all languages, frameworks, and libraries in use.

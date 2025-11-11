@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Create Unit Test
 
 Create ONE new unit test following the established conventions in this repository.

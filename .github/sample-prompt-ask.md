@@ -1,3 +1,7 @@
+---
+model: gpt-4.1
+---
+
 # Repository Discovery
 
 Please analyze this repository and provide a comprehensive overview including:
