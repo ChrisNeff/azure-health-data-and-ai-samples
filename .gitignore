@@ -6,3 +6,6 @@
 /samples/.vs
 /.vs/TS/v17
 /.vs
+
+# Claude Code local configuration
+.claude/
